@@ -108,6 +108,10 @@
       {
         "fileMatch": "**/.stylelintrc*",
         "url": "http://json.schemastore.org/stylelintrc.json"
+      },
+      {
+        "fileMatch": "**/.stylelintrc.json",
+        "url": "http://json.schemastore.org/stylelintrc.json"
       }
     ],
     "languages": [
